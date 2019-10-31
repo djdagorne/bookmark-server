@@ -1,0 +1,42 @@
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /add","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id:f654d4f7-8e52-4422-93b5-b80e3e680d05 pushed to array.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id:3d06a2af-4e11-4766-a96d-c4683b4806c3 pushed to array.","level":"info"}
+{"message":"Bookmark with id:ec518a29-0d0b-4aa6-be8f-c1922ff5b508 pushed to array.","level":"info"}
+{"message":"Bookmark with id:7349eb5e-1c5f-4424-aa7b-786e97eeec11 pushed to array.","level":"info"}
+{"message":"Bookmark with id:636f4b5e-10ac-4e78-91d0-ae059c930d9e pushed to array.","level":"info"}
+{"message":"Bookmark with id:530ad4d3-3b59-4ca0-a31a-0ef93afd8879 pushed to array.","level":"info"}
+{"message":"Bookmark with id:97ea7d1d-7721-4f4c-8887-9145b6a4a8be pushed to array.","level":"info"}
+{"message":"Bookmark with id:01657889-83b8-4895-a291-2aa3ff489ec6 pushed to array.","level":"info"}
+{"message":"Bookmark with id:2063c0cb-02d6-4dee-8123-2562cbda41ad pushed to array.","level":"info"}
+{"message":"Bookmark with id:45564f65-92e5-4336-adfa-ab1e715e1da3 pushed to array.","level":"info"}
+{"message":"Bookmark with id:4e9742d8-d966-491d-b5fc-05993ad881e7 pushed to array.","level":"info"}
+{"message":"Bookmark with id:440d61e0-3d28-40f9-bfac-3f69ac42a1e7 pushed to array.","level":"info"}
+{"message":"Bookmark with id 11 not found.","level":"error"}
+{"message":"Bookmark with id 1 not found.","level":"error"}
+{"message":"Bookmark with id 1 not found.","level":"error"}
+{"message":"Bookmark with id 2 has been deleted.","level":"info"}
+{"message":"Bookmark with id 2 has been deleted.","level":"info"}
+{"message":"Bookmark with id 1 has been deleted.","level":"info"}
+{"message":"Bookmark with id 2 has been deleted.","level":"info"}
+{"message":"Bookmark with id 2 has been deleted.","level":"info"}
+{"message":"Bookmark with id:255b0a25-9232-45cf-8e4e-a5ccc8cc65f6 pushed to array.","level":"info"}
+{"message":"Bookmark with id:c437c9a2-5991-4956-8597-6179f9f8585b pushed to array.","level":"info"}
+{"message":"Bookmark with id:abd653a3-f2a0-4d32-a9ca-82ebbf140e96 pushed to array.","level":"info"}
+{"message":"Bookmark with id:2f3979fa-53fe-44ce-bb11-773f5fdbd8ae pushed to array.","level":"info"}
+{"message":"Bookmark with id:969794c7-8d57-4c95-ae4e-b6948beef808 pushed to array.","level":"info"}
+{"message":"Bookmark with id 1 has been deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
