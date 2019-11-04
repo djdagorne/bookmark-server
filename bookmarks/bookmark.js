@@ -41,11 +41,12 @@ bookmarkRouter
 
         res
             .status(201)
-            .location('http://localhost:8000/bookmarks/:id')
+            .location('http://localhost:8000/bookmarks/:'+id)
+            .json(bookmark);
     })
 
 bookmarkRouter
-    .route('/bookmarks/:id')
+    .route('/bookmarks/:+id')
     .get((req, res) => {
         const {id} = req.params;
         const bookmark = store.find(b => b.id == id);
