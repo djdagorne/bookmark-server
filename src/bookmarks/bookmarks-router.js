@@ -1,7 +1,9 @@
 const express = require('express');
-const logger = require('../logger');
+const logger = require('../../logger');
 const uuid = require('uuid/v4');
-const { store } = require('../store');
+const { store } = require('../../store');
+
+const BookmarksService = require('./bookmarks-service')
 
 const bookmarkRouter = express.Router();
 const bodyParser = express.json();
@@ -12,6 +14,7 @@ bookmarkRouter
         res.json(store);
     })
     .post(bodyParser, (req, res) => {
+        //TODO update to use database
         const { title, url, rating, description = ''} = req.body;
 
         if(!title){
@@ -41,7 +44,7 @@ bookmarkRouter
 
         res
             .status(201)
-            .location('http://localhost:8000/bookmarks/:'+id)
+            .location('http://localhost:8000/bookmarks/:id')
             .json(bookmark);
     })
 
