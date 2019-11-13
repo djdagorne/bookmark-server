@@ -1,14 +1,14 @@
-require('dotenv').config();
-const express = require('express');
-const morgan = require('morgan');
-const helmet = require('helmet');
-const logger = require('../logger');
-const cors = require('cors');
+require('dotenv').config()
+const express = require('express')
+const morgan = require('morgan')
+const helmet = require('helmet')
+const logger = require('../logger')
+const cors = require('cors')
 const validateBearerToken = require('./validate-bearer-token')
 const errorHandler = require('./error-handler')
 
 const { NODE_ENV } = require('./config');
-const bookmarkRouter = require('./bookmarks/bookmark');
+const bookmarkRouter = require('./bookmarks/bookmarks-router');
 
 const app = express();
 
