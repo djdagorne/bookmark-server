@@ -536,3 +536,327 @@
 {"message":"Rating should be a number","level":"error"}
 {"message":"'bumps' is an invalid URL","level":"error"}
 {"message":"Bookmark with id:2","level":"info"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /articles/911","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Cannot destructure property `title` of 'undefined' or 'null'.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Cannot destructure property `title` of 'undefined' or 'null'.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body must contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"path is not defined","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"path is not defined","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"path.posix.json is not a function","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"path.posix.json is not a function","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"The \"path\" argument must be of type string. Received type number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"The \"path\" argument must be of type string. Received type number","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"update \"bookmarks\" set \"rating\" = $1 where \"id\" = $2 - invalid input value for enum star_rating: \"invalid\"","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"update \"bookmarks\" set \"rating\" = $1 where \"id\" = $2 - invalid input value for enum star_rating: \"44\"","level":"error"}
+{"message":"update \"bookmarks\" set \"rating\" = $1 where \"id\" = $2 - invalid input value for enum star_rating: \"44\"","level":"error"}
+{"message":"update \"bookmarks\" set \"rating\" = $1 where \"id\" = $2 - invalid input value for enum star_rating: \"44\"","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'htp://invalid-url' is an invalid URL","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"'undefined' is an invalid URL","level":"error"}
+{"message":"'htp://invalid-url' is an invalid URL","level":"error"}
+{"message":"'undefined' is an invalid URL","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/1","level":"error"}
+{"message":"Bookmark with id 4444 not found.","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"'bumps' is an invalid URL","level":"error"}
+{"message":"Bookmark with id:2 deleted","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"Request body did not contain either 'title', 'url', 'description' or 'rating'","level":"info"}
+{"message":"Bookmark with id:2 patched","level":"info"}
+{"message":"'htp://nope-yeah' is an invalid URL","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Bookmark with id:4 deleted","level":"info"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
+{"message":"Rating should be a number","level":"error"}
